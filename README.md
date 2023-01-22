@@ -1,4 +1,8 @@
-### Hi there 👋
+# 2384320 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2384320&theme=dark&show_icons=true)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chdms2412)](https://solved.ac/chdms2412)
 
 <!--
 **2384320/2384320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
